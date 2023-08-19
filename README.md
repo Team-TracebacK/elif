@@ -19,7 +19,7 @@ Optional goals <br />
   2. Quantify learning weightage and give schedule for exams <br />
   3. Question prompts <br />
   4. Doubt/Clarification prompts <br />
-========================================================================== Run the following commands before program execution -<br />
+==========================================================================   Run the following commands before program execution -<br />
 pip install requests <br />
 pip install claude-api <br />
 pip install python-dotenv <br />
