@@ -19,8 +19,10 @@ Optional goals <br />
   2. Quantify learning weightage and give schedule for exams <br />
   3. Question prompts <br />
   4. Doubt/Clarification prompts <br />
-==========================================================================
+ <br/>
 Run the following commands before program execution -<br />
 pip install requests <br />
 pip install claude-api <br />
 pip install python-dotenv <br />
+===============================================================================
+You will need an API key to access the claudeapi as it is only accessible to the US and UK region and people with research access
