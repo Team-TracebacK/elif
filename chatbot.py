@@ -6,7 +6,7 @@ from prompt_enhance import quiz
 from prompt_enhance import pdf_to_text
 from prompt_enhance import ppt_to_text
 
-load_dotenv(dotenv_path=r"C:\Users\jaisi\OneDrive\Documents\Jai\Projects\Explain_it_Like_I_am_Five\api_key.env")
+load_dotenv(dotenv_path=r"...\api_key.env")
 
 api_key = os.getenv("API_KEY")
 model = "claude-v1.3-100k"
