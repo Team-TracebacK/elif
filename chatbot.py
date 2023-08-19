@@ -32,7 +32,6 @@ def chat_with_ai(user_question, api_key, model):
     response = requests.post(url, headers=headers, data=params_json)
     if response.status_code == 200:
         response_json = response.json()
-        # conversation_history += f'\n\n{response_json["completion"]}'
         conversation_history = f'\n\n{response_json["completion"]}'
         return conversation_history
     else:
