@@ -17,8 +17,7 @@ def roadmap():
     topic=input("On what topic would you like to get a roadmap about? ")
     t.chatbot(topic, task_type, learning_pace)
 
-# learning_pace = main()
-learning_pace = "beginner"
+learning_pace = main()
 
 while True:
     task_type=int(input("What would you like to do today?\n1. Learn a new topic from the chatbot\n2. Take a test on a topic of your choice\n3. Perform text analysis \
