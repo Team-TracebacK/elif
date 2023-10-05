@@ -29,5 +29,5 @@ pip install python-dotenv <br />
 
 ---------------------------------------------------------------------
 
-Goals <br />
-You will need an API key to access the claudeapi as it is only accessible to the US and UK region and people with research access
+Needed: <br />
+You will need an API key to access the claudeapi. It is only accessible to US & UK region and people with researcher access.
