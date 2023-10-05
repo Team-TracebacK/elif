@@ -26,6 +26,8 @@ Run the following commands before program execution -<br />
 pip install requests <br />
 pip install claude-api <br />
 pip install python-dotenv <br />
-===========================================================================
+
+---------------------------------------------------------------------
+
 Goals <br />
 You will need an API key to access the claudeapi as it is only accessible to the US and UK region and people with research access
