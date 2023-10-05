@@ -1,4 +1,5 @@
 # elif
+
 elif { Explain it Like I'm Five } An AI-based tool that assists the user in learning any topic in a structured manner, the pace of which is personalised for the user. <br />
 <br />
 Members - <br />
@@ -7,7 +8,9 @@ Jai <br />
 Lakshay <br />
 Saptarishi <br />
 Advay <br />
-===========================================================================
+
+---------------------------------------------------------------------
+
 Goals <br />
   1. Study roadmap creator <br />
   2. Mindmap creator <br />
